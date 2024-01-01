@@ -84,21 +84,19 @@ ul li a:hover{
     display: flex;
     justify-content: space-around;
     background-color:#393639b5;
-    height: 100vh;
+    height: 110%;
     width: 100%;
     
 }
 .pic img{
-    transition: 3s ease;
-    width: 800px;
-    height: 630px;
+   
+    width: 700px;
+    height: 610px;
    border-radius: 20px;
    margin-top: 10%;
-   font-size: 35px;
+   font-size: 30px;
 }
-.pic img:hover{
-    transform: scale(1.2);
-}
+
 .intro{
     color:  rgb(12, 8, 245);
     margin-top: 15%;
@@ -267,16 +265,12 @@ ul li a:hover{
 .ifrme iframe{
     height: 300px;
     width: 450px;
-    margin-left: 50px;
-    margin-top: -60px;
+    margin-left: 550px;
+    margin-top: 390px;
 }
-.text_video{
-    font-size: 20px;
-    margin-top: -40px;
-    margin-left: 50px;
-}
+
 .form{
-    margin-top: 25%;
+    margin-top: 10%;
     margin-left: 70px;
     
 }
@@ -285,7 +279,7 @@ ul li a:hover{
         height: 35px;
         display: grid;
         row-gap: 35px;
-        margin-top: -7px;
+        margin-top: 9px;
     
     
 }
